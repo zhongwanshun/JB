@@ -1,0 +1,28 @@
+body {
+    background-image: url(../image/1.jpg);
+}
+
+.top_title {
+    color: aliceblue;
+    text-align: center;
+}
+
+.ifm_table th {
+    color: white;
+    font-size: 25px;
+    height: 50px;
+    width: 310px;
+    text-align: center;
+}
+
+.ifm_table td {
+    height: 57px;
+    white-space: nowrap;
+    color: aliceblue;
+    text-align: center;
+}
+
+.do_play a {
+    margin-right: 20px;
+    border: 1px;
+}
